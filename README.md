@@ -2,6 +2,7 @@
 
 Laboratorijske vježbe predmeta Operacijski sustavi koji se izvodi u 4. semestru na Fakultetu elektrotehnike i računarstva u Zagrebu.
 
+
 **Sadržaj vježbi**
 
 Prvi labos: Signali - Priprema i zadatak (signali.c)
@@ -18,6 +19,7 @@ Treći labos: Sinkronizacijski mehanizmi
 - Zadatak 3b: Riješiti problem kanibala i misionara koristeći dretve i sinkronizirati ih monitorom (kanibali.c)
 
 Četvrti labos: Raspoređivanje radnog spremnika straničenjem (stranicenje.c)
+
 
 **Opis predmeta**
 
