@@ -18,3 +18,7 @@ Treći labos: Sinkronizacijski mehanizmi
 - Zadatak 3b: Riješiti problem kanibala i misionara koristeći dretve i sinkronizirati ih monitorom (kanibali.c)
 
 Četvrti labos: Raspoređivanje radnog spremnika straničenjem (stranicenje.c)
+
+**Opis predmeta**
+
+Operacijski je sustav skup programa koji djeluju kao posrednici između sklopovlja i primjenskih programa te korisnika. Osnovni je cilj predmeta kod studenata razviti razumijevanje da operacijski sustavi služe dvijema svrhama: prvo, da operacijski sustavi moraju raspodijeliti računalne aktivnosti tako da osiguraju dobru iskorištenost računalnih sredstava i, drugo, da uspostave prikladno okruženje za pripremu i izvođenje programa.
